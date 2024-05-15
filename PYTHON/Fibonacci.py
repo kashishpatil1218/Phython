@@ -1,6 +1,3 @@
-
-#write a program to grnerate the fibonacci series
-
 n=int(input("Enter the num : "))
 num1=0
 num2=1
